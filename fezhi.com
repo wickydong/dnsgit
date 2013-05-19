@@ -1,0 +1,8 @@
+A(*, 1.1.1.1, 默认, 600, 0)
+A(@, 1.1.1.1, 默认, 600, 0)
+显性URL(@, http://iifun.com, 默认, 600, 0)
+显性URL(f, http://weibo.com, 默认, 600, 0)
+显性URL(g, http://weibo.com, 默认, 600, 0)
+显性URL(q, http://weibo.com, 默认, 600, 0)
+显性URL(r, http://weibo.com, 默认, 600, 0)
+显性URL(w, http://weibo.com, 默认, 600, 0)

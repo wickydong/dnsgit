@@ -1,0 +1,3 @@
+CNAME(*, baidu.com., 默认, 600, 0)
+CNAME(@, ubgt.b0.aicdn.com., 默认, 600, 0)
+A(wwww, 1.1.1.1, 默认, 600, 0)

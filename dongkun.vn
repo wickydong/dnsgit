@@ -1,0 +1,3 @@
+CNAME(*, thongbao.vnnic.vn., 默认, 600, 0)
+CNAME(@, thongbao.vnnic.vn., 默认, 600, 0)
+CNAME(www, thongbao.vnnic.vn., 默认, 600, 0)
